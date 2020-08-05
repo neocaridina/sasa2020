@@ -1,5 +1,5 @@
 # sasa2020
-종
+
 ```
 git clone https://github.com/greendaygh/sasa2020.git
 ```
